@@ -2,7 +2,7 @@
 Bootstrap 4 CSS Grid addition for big and retina screens coverage.
 
 ## Extends Bootstrap v4 by:
-* Adding col-xxl (1600+), col-xxxl (1920+), col-xxxxl (2560+) classes with all related options: order, offser
+* Adding col-xga (1600+), col-fhd (1920+), col-rt (2560+), col-rt15 (2880+), col-uhd (3840+), col-4k (4096+), col-8k (8192+) classes with all related options: order, offser
 * Adding options none, inline, inline-block, block, table, table-row, table-cell, flex, inline-flex for all three
 * Adding options flex-*, justify-content-*, align-items-*, align-content-*, align-self* for all three
 
