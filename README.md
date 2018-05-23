@@ -6,6 +6,7 @@ Bootstrap 4 CSS Grid addition for big and retina screens coverage.
               <tr>
                 <th></th>
                 <th>
+                  HD+
                   <small>≥1600px</small>
                 </th>
                 <th>
