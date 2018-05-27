@@ -1,5 +1,7 @@
 <b>v 1.1 - development</b>
 - Modify from bootstrap 4.1
+- Add sass tiers
+- Compiling sass and public sass files
 
 <b>v 1.0 - 23 May 2018</b>
 - Modify modificator name
