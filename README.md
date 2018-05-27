@@ -1,5 +1,5 @@
 # bootstrap-largegrid
-Bootstrap 4 CSS Grid addition for big and retina screens coverage.
+Bootstrap 4 CSS Grid addition for big and retina screens coverage and SASS tiers grid file.
 
 <table class="table table-bordered table-striped">
             <thead>
